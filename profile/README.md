@@ -36,6 +36,10 @@ We welcome contributions from the community! Feel free to:
 
 ## 📫 Contact
 
+Contact us on gmail: ctusematx@gmail.com
+
+For more infomation and discussion join us on Discord: https://discord.gg/gREP69pH
+
 Visit our repositories to learn more about our projects and how to contribute.
 
 ---
