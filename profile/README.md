@@ -22,8 +22,6 @@
 
 ---
 
-
-
 ## 📦 Our Projects
 
 <table>
@@ -34,7 +32,7 @@
 
 **Smart City Template & Orchestrator**
 
-![Version](https://img.shields.io/badge/version-v0.3.1--alpha-blue)
+[![Version](https://img.shields.io/github/v/release/CTU-SematX/LegoCity?label=version)](https://github.com/CTU-SematX/LegoCity/releases)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/LegoCity?style=social)
 
@@ -49,7 +47,7 @@ A lightweight Smart City template for rapid experimentation and teaching. Comple
 
 **Low-Code Dashboard Platform**
 
-![Version](https://img.shields.io/badge/version-v0.4.0--alpha-blue)
+[![Version](https://img.shields.io/github/v/release/CTU-SematX/Lego-Dashboard?label=version)](https://github.com/CTU-SematX/Lego-Dashboard/releases)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/Lego-Dashboard?style=social)
 
@@ -66,7 +64,7 @@ Modern, low-code dashboard for NGSI-LD smart city applications. Alternative to W
 
 **Secure API Gateway**
 
-![Version](https://img.shields.io/badge/version-v0.1.1--alpha-blue)
+[![Version](https://img.shields.io/github/v/release/CTU-SematX/Orion-Nginx?label=version)](https://github.com/CTU-SematX/Orion-Nginx/releases)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/Orion-Nginx?style=social)
 
@@ -81,7 +79,7 @@ Secure API gateway for protecting FIWARE Orion-LD context brokers with JWT-based
 
 **Documentation Hub**
 
-![Version](https://img.shields.io/badge/version-v1.0.0-brightgreen)
+[![Version](https://img.shields.io/github/v/release/CTU-SematX/Lego-Doc?label=version)](https://github.com/CTU-SematX/Lego-Doc/releases)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/Lego-Doc?style=social)
 
