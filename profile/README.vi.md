@@ -66,7 +66,7 @@ Dashboard hiện đại, low-code cho ứng dụng NGSI-LD thành phố thông m
 
 [![Phiên bản](https://img.shields.io/github/v/release/CTU-SematX/Orion-Nginx?label=version)](https://github.com/CTU-SematX/Orion-Nginx/releases)
 ![Giấy phép](https://img.shields.io/badge/giấy%20phép-MIT-green)
-![Stars](https://img.shields.io/github/stars/CTU-Sem atX/Orion-Nginx?style=social)
+![Stars](https://img.shields.io/github/stars/CTU-SematX/Orion-Nginx?style=social)
 
 Cổng API bảo mật để bảo vệ FIWARE Orion-LD context broker với xác thực JWT (HS256) và kiểm soát truy cập dựa trên IP. Mô hình bảo mật hai lớp.
 
