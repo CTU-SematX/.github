@@ -49,7 +49,7 @@ Template Smart City nhẹ cho thử nghiệm nhanh và giảng dạy. Stack hoà
 **Nền Tảng Dashboard Low-Code**
 
 ![Phiên bản](https://img.shields.io/badge/phiên%20bản-v0.4.0--alpha-blue)
-![Giấy phép](https://img.shields.io/badge/giấy%20phép-Apache%202.0-orange)
+![Giấy phép](https://img.shields.io/badge/giấy%20phép-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/Lego-Dashboard?style=social)
 
 Dashboard hiện đại, low-code cho ứng dụng NGSI-LD thành phố thông minh. Thay thế WireCloud (FIWARE) với tạo nội dung AI, multi-tenancy, và import Smart Data Models.
@@ -81,7 +81,7 @@ Cổng API bảo mật để bảo vệ FIWARE Orion-LD context broker với xá
 **Trung Tâm Tài Liệu**
 
 ![Phiên bản](https://img.shields.io/badge/phiên%20bản-v1.0.0-brightgreen)
-![Giấy phép](https://img.shields.io/badge/giấy%20phép-CC--BY--4.0-blue)
+![Giấy phép](https://img.shields.io/badge/giấy%20phép-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/Lego-Doc?style=social)
 
 Tài liệu chính thức cho hệ sinh thái LegoCity. Hướng dẫn toàn diện về cài đặt, cấu hình, phát triển, tích hợp AI, và triển khai. Song ngữ (EN/VI).
