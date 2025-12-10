@@ -22,7 +22,6 @@
 
 ---
 
-
 ## 📦 Các Dự Án
 
 <table>
@@ -33,7 +32,7 @@
 
 **Template & Điều Phối Thành Phố Thông Minh**
 
-![Phiên bản](https://img.shields.io/badge/phiên%20bản-v0.3.1--alpha-blue)
+[![Phiên bản](https://img.shields.io/github/v/release/CTU-SematX/LegoCity?label=phiên%20bản)](https://github.com/CTU-SematX/LegoCity/releases)
 ![Giấy phép](https://img.shields.io/badge/giấy%20phép-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/LegoCity?style=social)
 
@@ -48,7 +47,7 @@ Template Smart City nhẹ cho thử nghiệm nhanh và giảng dạy. Stack hoà
 
 **Nền Tảng Dashboard Low-Code**
 
-![Phiên bản](https://img.shields.io/badge/phiên%20bản-v0.4.0--alpha-blue)
+[![Phiên bản](https://img.shields.io/github/v/release/CTU-SematX/Lego-Dashboard?label=phiên%20bản)](https://github.com/CTU-SematX/Lego-Dashboard/releases)
 ![Giấy phép](https://img.shields.io/badge/giấy%20phép-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/Lego-Dashboard?style=social)
 
@@ -65,9 +64,9 @@ Dashboard hiện đại, low-code cho ứng dụng NGSI-LD thành phố thông m
 
 **Cổng API Bảo Mật**
 
-![Phiên bản](https://img.shields.io/badge/phiên%20bản-v0.1.1--alpha-blue)
+[![Phiên bản](https://img.shields.io/github/v/release/CTU-SematX/Orion-Nginx?label=phiên%20bản)](https://github.com/CTU-SematX/Orion-Nginx/releases)
 ![Giấy phép](https://img.shields.io/badge/giấy%20phép-MIT-green)
-![Stars](https://img.shields.io/github/stars/CTU-SematX/Orion-Nginx?style=social)
+![Stars](https://img.shields.io/github/stars/CTU-Sem atX/Orion-Nginx?style=social)
 
 Cổng API bảo mật để bảo vệ FIWARE Orion-LD context broker với xác thực JWT (HS256) và kiểm soát truy cập dựa trên IP. Mô hình bảo mật hai lớp.
 
@@ -80,7 +79,7 @@ Cổng API bảo mật để bảo vệ FIWARE Orion-LD context broker với xá
 
 **Trung Tâm Tài Liệu**
 
-![Phiên bản](https://img.shields.io/badge/phiên%20bản-v1.0.0-brightgreen)
+[![Phiên bản](https://img.shields.io/github/v/release/CTU-SematX/Lego-Doc?label=phiên%20bản)](https://github.com/CTU-SematX/Lego-Doc/releases)
 ![Giấy phép](https://img.shields.io/badge/giấy%20phép-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/Lego-Doc?style=social)
 
