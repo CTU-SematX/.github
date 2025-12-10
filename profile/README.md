@@ -50,7 +50,7 @@ A lightweight Smart City template for rapid experimentation and teaching. Comple
 **Low-Code Dashboard Platform**
 
 ![Version](https://img.shields.io/badge/version-v0.4.0--alpha-blue)
-![License](https://img.shields.io/badge/license-Apache%202.0-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/Lego-Dashboard?style=social)
 
 Modern, low-code dashboard for NGSI-LD smart city applications. Alternative to WireCloud (FIWARE) with AI-powered content generation, multi-tenancy, and Smart Data Models import.
@@ -82,7 +82,7 @@ Secure API gateway for protecting FIWARE Orion-LD context brokers with JWT-based
 **Documentation Hub**
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-brightgreen)
-![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 ![Stars](https://img.shields.io/github/stars/CTU-SematX/Lego-Doc?style=social)
 
 Official documentation for the LegoCity ecosystem. Comprehensive guides for installation, configuration, development, AI integration, and deployment. Bilingual (EN/VI).
